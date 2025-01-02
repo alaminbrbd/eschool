@@ -1,0 +1,20 @@
+/*font links*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto&display=swap');
+:root{
+--orange: #FD511A;
+--balck:#000000;
+--green: #21B573;
+--white: #ffffff;
+
+--pop:"Poppins", serif;
+--rob:"Roboto", serif;
+
+}
+/*common css*/
+body{
+    font-family: pop;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--balck);
+}
